@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there, Weifeng here! :wave:
+---
 
-<!--
-**bw98/bw98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bw98&show_icons=true&hide_border=true" alt="Weifeng's Github Stats">
 
-Here are some ideas to get you started:
+I'm Weifeng, a master student @ NEU, Boston
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :hammer_and_wrench: C++/Go/Python/Java
+- :computer: [openSUSE Linux](https://www.opensuse.org/)/[Vim](https://www.vim.org/)/[Gnome](https://www.gnome.org)/Linux Kernel/NLP
+- :heart: Soccer:soccer:/Piano:musical_keyboard:/eating:stew:/Travel:desert_island:
+- :rocket: On the way to graceful code
+- :speech_balloon: Talk with me about anything [here](https://github.com/bw98/bw98/issues)!
+
